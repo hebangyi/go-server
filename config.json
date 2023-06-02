@@ -1,0 +1,37 @@
+{
+  "manager": [
+
+  ],
+  "servers": [
+    {
+      "Account": {
+
+      },
+      "Realm":
+      {
+
+      },
+      "RouterManager": {
+
+      },
+      "Router": {
+
+      },
+      "Gate": {
+
+      },
+      "Lobby": {
+
+      },
+      "Battle": {
+
+      },
+      "DBCache": {
+
+      },
+      "Location": {
+
+      }
+    }
+  ]
+}

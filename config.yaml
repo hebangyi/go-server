@@ -1,0 +1,8 @@
+name: test
+moudles:
+  - name: game
+    user: user
+  - name: game
+    user: user
+  - name: game
+    user: user
